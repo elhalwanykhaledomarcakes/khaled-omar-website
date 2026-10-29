@@ -24,7 +24,7 @@ window.SITE_CONFIG = {
     name: 'حلواني خالد عمر',
     subName: 'محطة الحلويات • Sweets Station',
     badgeText: 'أصالة الطعم الملكي منذ سنوات في الإسكندرية',
-    logo: 'assets/images/logo.png',               // شعار الموقع المفرغ
+    logo: 'logo.png',               // شعار الموقع المفرغ
     logoBadge: 'assets/images/logo-badge.png',    // الشعار الذهبي
     logoCover: 'assets/images/logo-original.jpg',  // صورة الهوية الأصلية بالخلفية المارونية
     heroHeadline: 'محطة السعادة والحلويات الملكية الفاخرة',
